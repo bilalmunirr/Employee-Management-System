@@ -18,7 +18,7 @@ Manage Employee:
 
 
 Employee History:
-![Employee History](https://user-images.githubusercontent.com/68277072/183281523-ea64f674-eace-4a40-af94-198f1288bc7a.png)
+![Employee History](https://user-images.githubusercontent.com/68277072/183281603-72a07559-dc63-4405-bc1f-0479f6cd9af6.png)
 
 Employee Dashboard:
-![Employee Dashboard](https://user-images.githubusercontent.com/68277072/183281547-64f9d372-572e-48ee-875f-a6a7e2efcd36.png)
+![Employee Dashboard](https://user-images.githubusercontent.com/68277072/183281612-5deb9788-befe-485e-9672-7249f2e3eefa.png)
